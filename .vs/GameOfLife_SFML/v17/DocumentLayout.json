@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pierr\\source\\repos\\GameOfLife_SFML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81CC327E-1E02-4D04-9EF2-91E9A7864F11}|GameOfLife_SFML\\GameOfLife_SFML.vcxproj|C:\\Users\\pierr\\source\\repos\\GameOfLife_SFML\\GameOfLife_SFML\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81CC327E-1E02-4D04-9EF2-91E9A7864F11}|GameOfLife_SFML\\GameOfLife_SFML.vcxproj|solutionrelative:GameOfLife_SFML\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CC327E-1E02-4D04-9EF2-91E9A7864F11}|GameOfLife_SFML\\GameOfLife_SFML.vcxproj|C:\\Users\\pierr\\source\\repos\\GameOfLife_SFML\\GameOfLife_SFML\\Cell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81CC327E-1E02-4D04-9EF2-91E9A7864F11}|GameOfLife_SFML\\GameOfLife_SFML.vcxproj|solutionrelative:GameOfLife_SFML\\Cell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CC327E-1E02-4D04-9EF2-91E9A7864F11}|GameOfLife_SFML\\GameOfLife_SFML.vcxproj|C:\\Users\\pierr\\source\\repos\\GameOfLife_SFML\\GameOfLife_SFML\\Cell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81CC327E-1E02-4D04-9EF2-91E9A7864F11}|GameOfLife_SFML\\GameOfLife_SFML.vcxproj|solutionrelative:GameOfLife_SFML\\Cell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CC327E-1E02-4D04-9EF2-91E9A7864F11}|GameOfLife_SFML\\GameOfLife_SFML.vcxproj|C:\\Users\\pierr\\source\\repos\\GameOfLife_SFML\\GameOfLife_SFML\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81CC327E-1E02-4D04-9EF2-91E9A7864F11}|GameOfLife_SFML\\GameOfLife_SFML.vcxproj|solutionrelative:GameOfLife_SFML\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CC327E-1E02-4D04-9EF2-91E9A7864F11}|GameOfLife_SFML\\GameOfLife_SFML.vcxproj|C:\\Users\\pierr\\source\\repos\\GameOfLife_SFML\\GameOfLife_SFML\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81CC327E-1E02-4D04-9EF2-91E9A7864F11}|GameOfLife_SFML\\GameOfLife_SFML.vcxproj|solutionrelative:GameOfLife_SFML\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 132,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cell.h",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\GameOfLife_SFML\\GameOfLife_SFML\\Cell.h",
+              "RelativeDocumentMoniker": "GameOfLife_SFML\\Cell.h",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\GameOfLife_SFML\\GameOfLife_SFML\\Cell.h",
+              "RelativeToolTip": "GameOfLife_SFML\\Cell.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-18T10:47:22.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grid.h",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\GameOfLife_SFML\\GameOfLife_SFML\\Grid.h",
+              "RelativeDocumentMoniker": "GameOfLife_SFML\\Grid.h",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\GameOfLife_SFML\\GameOfLife_SFML\\Grid.h",
+              "RelativeToolTip": "GameOfLife_SFML\\Grid.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2023-11-18T10:42:41.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\GameOfLife_SFML\\GameOfLife_SFML\\main.cpp",
+              "RelativeDocumentMoniker": "GameOfLife_SFML\\main.cpp",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\GameOfLife_SFML\\GameOfLife_SFML\\main.cpp",
+              "RelativeToolTip": "GameOfLife_SFML\\main.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-10-16T14:49:53.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cell.cpp",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\GameOfLife_SFML\\GameOfLife_SFML\\Cell.cpp",
+              "RelativeDocumentMoniker": "GameOfLife_SFML\\Cell.cpp",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\GameOfLife_SFML\\GameOfLife_SFML\\Cell.cpp",
+              "RelativeToolTip": "GameOfLife_SFML\\Cell.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-10-16T14:26:25.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grid.cpp",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\GameOfLife_SFML\\GameOfLife_SFML\\Grid.cpp",
+              "RelativeDocumentMoniker": "GameOfLife_SFML\\Grid.cpp",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\GameOfLife_SFML\\GameOfLife_SFML\\Grid.cpp",
+              "RelativeToolTip": "GameOfLife_SFML\\Grid.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-10-16T14:20:02.559Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
